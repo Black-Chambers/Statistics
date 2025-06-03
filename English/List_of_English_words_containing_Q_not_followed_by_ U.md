@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/List_of_English_words_containing_Q_not_followed_by_U
