@@ -13,4 +13,4 @@
 | All ASCII printable characters                  |   95 |
 | All extended ASCII printable characters         |  218 |
 | Binary (0–255 or 8 bits or 1 byte)              |  256 |
-| Diceware word list                              | 7776 |
+| Diceware word list  (6<sup>5</sup>)             | 7776 |
