@@ -20,3 +20,4 @@
 | Thai                                            |   xx |
 | Spanish |  |
 | German  |  |
+| Morse code  (dot or dih, dash or dah, and delimiter or space)   |     2 |
