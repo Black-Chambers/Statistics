@@ -15,3 +15,8 @@
 | Binary (0–255 or 8 bits or 1 byte)              |  256 |
 | Unicode  |  |
 | Diceware word list  (6<sup>5</sup>)             | 7776 |
+| Japanese Hiragana                               |   46 |
+| Japanese Katakana                               |   46 |
+| Thai                                            |   xx |
+| Spanish |  |
+| German  |  |
