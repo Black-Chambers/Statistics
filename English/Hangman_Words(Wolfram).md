@@ -1,4 +1,6 @@
 https://blog.wolfram.com/2010/08/13/25-best-hangman-words/
+<br>
+Author: Jon McLoone
 
 [![Try the Wolfram Words App](https://content.wolfram.com/sites/39/2010/08/Wolfram-Word-App.png "Try the Wolfram Words App")](https://itunes.apple.com/us/app/wolfram-words-reference-app/id466457576?mt=8)
 
