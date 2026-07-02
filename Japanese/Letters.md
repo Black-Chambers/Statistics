@@ -1,1 +1,7 @@
+# Japanese
 
+## Hirigana
+
+## Katagana
+
+## Kanji
