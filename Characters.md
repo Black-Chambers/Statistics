@@ -17,7 +17,7 @@
 | Diceware word list  (6<sup>5</sup>)             | 7776 |
 | Japanese Hiragana                               |   46 |
 | Japanese Katakana                               |   46 |
-| Thai                                            |   xx |
+| Thai                                            |   44 |
 | Spanish |  |
 | German  |  |
 | Morse code  (dot or dih, dash or dah, and delimiter or space)   |     2 |
